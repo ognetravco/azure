@@ -1,3 +1,8 @@
+The following changes have been made to this template
+- Creates object on Azure Gov Cloud
+- Version 8.1.0 was added to the version list
+- You can specify a resource group for your vnet
+
 # VM-Series in an Availability Set Template
 
 This ARM template deploys a VM-Series next generation firewall VM in an availability set of a Azure resource group. It lets you select your:
